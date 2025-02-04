@@ -62,4 +62,12 @@ Scalable and easily deployable setup.
 
 
 ## Screenshots
+running containers
+![Screenshot 2025-02-04 175139](https://github.com/user-attachments/assets/688b3e7a-90df-4bd9-8708-5ccca6861ed3)
+
+removal of containers
+![Screenshot 2025-02-04 175652](https://github.com/user-attachments/assets/ccb76efd-0287-4cfd-a2dc-6cc1592c8b38)
+
+running containers + docker compose 
+![Screenshot 2025-02-04 194023](https://github.com/user-attachments/assets/8ee97ab6-1c51-40f2-9164-464bf6ce344d)
 
